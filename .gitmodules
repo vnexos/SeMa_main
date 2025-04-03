@@ -1,0 +1,6 @@
+[submodule "modules/language"]
+	path = modules/language
+	url = git@github.com:vnexos/SeMa_module_language.git
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:vnexos/SeMa_webapp.git
