@@ -3,7 +3,7 @@
 ## About the project
 - **Why I choose to research about this?**
   - I have experienced with a lot of RestAPI project as like as ASP.NET Clean Architecture, Java Springboot Clean Architecture, NodeJS Express,... and some projects don't event be API such as IVI project that I work on at my old company. And I found that the more features you add, the more the complexity of the project is. So I'm thinking about divide the project to small parts with their relations for the simplity.
-  - Moreover, I have ADHD syndrom, so the big projects may cause some problems to me, as when I want to fix a bug in a big project, I have to spend half a day to know where the bug is when normal people just need to spend 2-3 hours, or sometimes, I have to put a lot of log or delete a lot of bug just to find where I try to find.
+  - Moreover, I have ADHD syndrom, so the big projects may cause some problems to me, as when I want to fix a bug in a big project, I have to spend half a day to know where the bug is when normal people just need to spend 2-3 hours, or sometimes, I have to put a lot of log or delete a lot of code just to find where I'm trying to find.
 - **What is the idea?**
   - As my experient, a module will use from 1 to 3 or even 10 tables in database. So I want to devide a big project to small modules. And I think that will be much easier to use, to maintain as well as to fix bugs. This project is Springboot like, and is build on Java Servlet framework.
 - **What does it bring?**
